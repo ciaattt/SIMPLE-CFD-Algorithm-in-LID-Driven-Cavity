@@ -45,3 +45,4 @@ The simulation is considered converged when the L2-norm of the mass residual (co
 ## Mesh
 
 <img width="1601" height="857" alt="image" src="https://github.com/user-attachments/assets/06e57b66-667e-48b6-9c71-abb69729369d" />
+
