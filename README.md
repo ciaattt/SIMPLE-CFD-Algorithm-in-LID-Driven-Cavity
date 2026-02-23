@@ -1,5 +1,4 @@
-"# SIMPLE-in-Lid-Driven-Cavity" 
-<<<<<<< HEAD
+
 "# SIMPLE-CFD-Algorithm-in-LID-Driven-Cavity" 
 =======
 Code to solve Navier Stokes Equation in lid driven cavity domain. 
@@ -50,3 +49,4 @@ The simulation is considered converged when the L2-norm of the mass residual (co
 <img width="1601" height="857" alt="image" src="https://github.com/user-attachments/assets/06e57b66-667e-48b6-9c71-abb69729369d" />
 
 >>>>>>> 0b7140caeb6faaa68d54faa3668e5f66f3a1d791
+
