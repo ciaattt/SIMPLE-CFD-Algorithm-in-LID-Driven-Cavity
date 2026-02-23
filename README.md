@@ -1,6 +1,4 @@
-
-# SIMPLE-CFD-Algorithm-in-LID-Driven-Cavity
-=======
+"# SIMPLE-in-Lid-Driven-Cavity" 
 Code to solve Navier Stokes Equation in lid driven cavity domain. 
 Currently employs FOU (First order Upwind) Formulation at Re 400. 
 Should be Validated to result obtained by Ghia et.al (1982)
@@ -47,7 +45,3 @@ The simulation is considered converged when the L2-norm of the mass residual (co
 ## Mesh
 
 <img width="1601" height="857" alt="image" src="https://github.com/user-attachments/assets/06e57b66-667e-48b6-9c71-abb69729369d" />
-
->>>>>>> 0b7140caeb6faaa68d54faa3668e5f66f3a1d791
-
-
